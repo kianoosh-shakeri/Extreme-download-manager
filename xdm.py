@@ -16,8 +16,11 @@ try:
 	with open("locale/savedlng", "r") as f:
 		langstring=f.read()
 except Exception as e:
-	langstring="english"
-lang=gettext.translation(langstring, localedir='locale', languages=[langstring])
+	langstring=""
+if langstring != "":
+	lang=gettext.translation(langstring, localedir='locale', languages=[langstring])
+else:
+	lang=gettext.translation("en", localedir='locale', languages=["en"])
 lang.install()
 
 class application(wx.Frame):
