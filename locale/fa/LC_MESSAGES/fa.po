@@ -16,10 +16,10 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "X-Generator: Poedit 2.2\n"
 
-msgid "english"
+msgid "en"
 msgstr "انگلیسی"
 
-msgid "persian"
+msgid "fa"
 msgstr "پارسی"
 
 msgid "cancel"

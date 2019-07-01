@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 "Last-Translator: kianoosh shakeri"
 "Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
-"Language: en\n"
+"Language: english\n"
 
 
 msgid "en"
