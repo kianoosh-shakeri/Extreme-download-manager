@@ -1,0 +1,104 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid ""
+msgstr ""
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: kianoosh shakeriPlural-Forms: nplurals=2; plural=(n==0 || "
+"n==1);\n"
+"Language: fa\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "en"
+msgstr "انگلیسی"
+
+msgid "fa"
+msgstr "پارسی"
+
+msgid "cancel"
+msgstr "لغو"
+
+msgid "start download"
+msgstr "شروع به بارگزاری"
+
+msgid "add new download"
+msgstr "اضافه کردن بارگزاری جدید"
+
+msgid "exit"
+msgstr "خروج"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr "برای شروع بارگزاری جدید، اضافه کردن بارگزاری جدید را از منوی فایل انتخاب کنید"
+
+msgid "enter download link here"
+msgstr "لینک بارگزاری را اینجا وارد کنید"
+
+msgid "where should this file be saved to? "
+msgstr "این فایل کجا ذخیره شود؟ "
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "پروتکل اشتباه است. پروتکلهای پشتیبانی شده http* و ftp هستند"
+
+msgid "wrong download link set"
+msgstr "لینک بارگزاری اشتباه است"
+
+msgid "not yet began downloading"
+msgstr "هنوز بارگزاری شروع نشده است"
+
+msgid "remaining"
+msgstr "مانده"
+
+msgid "info"
+msgstr "اطلاعات"
+
+msgid "state"
+msgstr "وضعیت"
+
+msgid "download progress"
+msgstr "پیشرفت بارگزاری"
+
+msgid "estimated time remaining"
+msgstr "زمان تخمینی باقیمانده"
+
+msgid "transfer rate"
+msgstr "سرعت انتقال"
+
+msgid "downloaded size"
+msgstr "حجم بارگزاری شده"
+
+msgid "file size"
+msgstr "حجم فایل"
+
+msgid "status"
+msgstr "وضعیت"
+
+msgid "error"
+msgstr "خطا"
+
+msgid "download completed successfully. The file saved in"
+msgstr "بارگزاری با موفقیت کامل شد. این فایل ذخیره شد در"
+
+msgid "download complete"
+msgstr "بارگزاری کامل شد"
+
+msgid "file"
+msgstr "فایل"
+
+msgid "downloading"
+msgstr "در حال بارگزاری"
+
+msgid "paused"
+msgstr "به حالت تعلیق درآمده"
+
+msgid "combining"
+msgstr "در حال ترکیب کردن"
+
+msgid "finished"
+msgstr "پایان یافته"
