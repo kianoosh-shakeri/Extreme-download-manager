@@ -106,3 +106,21 @@ msgstr "kombinieren"
 
 msgid "finished"
 msgstr "abgeschlossen"
+
+msgid "pause"
+msgstr "pausieren"
+
+msgid "resume"
+msgstr "fortsetzen"
+
+msgid "download info"
+msgstr "download info"
+
+msgid "select a language"
+msgstr "Bitte wählen sie die programm Sprache aus."
+
+msgid "select language"
+msgstr "Sprachwal"
+
+msgid "change language"
+msgstr "Sprache ändern"
