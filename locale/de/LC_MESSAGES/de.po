@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid ""
+msgstr ""
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: kianoosh shakeriPlural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: de\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.0.7\n"
+
+msgid "en"
+msgstr "english"
+
+msgid "fa"
+msgstr "پارسی"
+
+msgid "de"
+msgstr "Deutsche"
+
+msgid "cancel"
+msgstr "abbrechen"
+
+msgid "start download"
+msgstr "download starten"
+
+msgid "add new download"
+msgstr "neuer download"
+
+msgid "exit"
+msgstr "beenden"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr ""
+"Um den Download einer Datei zu starten, wählen sie \"neuer Download\" im Datei menü "
+"aus."
+
+msgid "enter download link here"
+msgstr "download link"
+
+msgid "where should this file be saved to? "
+msgstr "speicher ort"
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "Falsches Protokoll. Unterstützte Protokolle: http, ftp"
+
+msgid "wrong download link set"
+msgstr "ungültiger download link"
+
+msgid "not yet began downloading"
+msgstr "download läuft noch nicht"
+
+msgid "remaining"
+msgstr "verbleibend"
+
+msgid "info"
+msgstr "Informationen"
+
+msgid "state"
+msgstr "status"
+
+msgid "download progress"
+msgstr "download fortschritt"
+
+msgid "estimated time remaining"
+msgstr "circa verbleibende Zeit"
+
+msgid "transfer rate"
+msgstr "Download Geschwindigkeit"
+
+msgid "downloaded size"
+msgstr "heruntergeladen"
+
+msgid "file size"
+msgstr "datei größe"
+
+msgid "status"
+msgstr "status"
+
+msgid "error"
+msgstr "fehler"
+
+msgid "download completed successfully. The file saved in"
+msgstr "Download abgeschlossen. Datei Pfad:"
+
+msgid "download complete"
+msgstr "download abgeschlossen"
+
+msgid "file"
+msgstr "Datei"
+
+msgid "downloading"
+msgstr "wird heruntergeladen..."
+
+msgid "paused"
+msgstr "pausirt"
+
+msgid "combining"
+msgstr "kombinieren"
+
+msgid "finished"
+msgstr "abgeschlossen"

@@ -17,10 +17,13 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 
 msgid "en"
-msgstr "انگلیسی"
+msgstr "english"
 
 msgid "fa"
 msgstr "پارسی"
+
+msgid "de"
+msgstr "Deutsche"
 
 msgid "cancel"
 msgstr "لغو"
@@ -102,3 +105,21 @@ msgstr "در حال ترکیب کردن"
 
 msgid "finished"
 msgstr "پایان یافته"
+
+msgid "pause"
+msgstr "مکس"
+
+msgid "resume"
+msgstr "ادامه"
+
+msgid "select language"
+msgstr "انتخاب زبان"
+
+msgid "select a language"
+msgstr "زبانی را انتخاب کنید"
+
+msgid "change language"
+msgstr "تغییر زبان"
+
+msgid "download info"
+msgstr "اطلاعات دانلود"

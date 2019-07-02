@@ -22,4 +22,7 @@ msgid "en"
 msgstr "english"
 
 msgid "fa"
-msgstr "persian"
+msgstr "پارسی"
+
+msgid "de"
+msgstr "Deutsche"
