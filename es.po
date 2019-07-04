@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid ""
+msgstr ""
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_419\n"
+
+msgid "en"
+msgstr "en"
+
+msgid "fa"
+msgstr "fa"
+
+msgid "de"
+msgstr "De"
+
+msgid "cancel"
+msgstr "Cancelar"
+
+msgid "start download"
+msgstr "Iniciar descarga"
+
+msgid "add new download"
+msgstr "agregar nueva descarga"
+
+msgid "exit"
+msgstr "Salir"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr "Para iniciar una descarga, seleccione Agregar nueva descarga en el menú Archivo"
+
+msgid "enter download link here"
+msgstr "ingresa el enlace de descarga aquí"
+
+msgid "where should this file be saved to? "
+msgstr "¿Dónde debería guardarse este archivo?"
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "protocolo incorrecto. Los protocolos soportados son http* y ftp"
+
+msgid "wrong download link set"
+msgstr "enlace de descarga incorrecto"
+
+msgid "not yet began downloading"
+msgstr "todavía no se está descargando"
+
+msgid "remaining"
+msgstr "restante"
+
+msgid "info"
+msgstr "Info"
+
+msgid "state"
+msgstr "estado"
+
+msgid "download progress"
+msgstr "progreso de la descarga"
+
+msgid "estimated time remaining"
+msgstr "Tiempo restante estimado "
+
+msgid "transfer rate"
+msgstr ""
+
+msgid "downloaded size"
+msgstr "tamaño descargado"
+
+msgid "file size"
+msgstr "Tamaño de archivo"
+
+msgid "status"
+msgstr "Estado"
+
+msgid "error"
+msgstr "error"
+
+msgid "download completed successfully. The file saved in"
+msgstr "descarga completada con éxito. Archivo guardado en"
+
+msgid "download complete"
+msgstr "Descarga completa"
+
+msgid "file"
+msgstr "Archivo"
+
+msgid "downloading"
+msgstr "Descargando"
+
+msgid "paused"
+msgstr "En pausa"
+
+msgid "combining"
+msgstr "conbinando"
+
+msgid "finished"
+msgstr "Finalizado"
+
+msgid "pause"
+msgstr "Pausar"
+
+msgid "resume"
+msgstr "Continuar"
+
+msgid "download info"
+msgstr "Info de la descarga"
+
+msgid "select a language"
+msgstr "selecciona un idioma"
+
+msgid "select language"
+msgstr "selecciona idioma"
+
+msgid "change language"
+msgstr "Cambiar idioma"
