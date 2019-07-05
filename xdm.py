@@ -85,7 +85,8 @@ class application(wx.Frame):
 		languages=['en-english', 
 		'fa-پارسی', 
 		'de-deutsche',
-		'es-Spanish']
+		'es-Spanish', 
+		'ge-georgian']
 		self.elements['cancelbutton']=wx.Button(self.firstpanel, id=BACKTODEFAULTPAGE_ID, label=_("cancel"))
 		self.elements['listlabel']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("select a language"))
 		self.elements['langlist']=wx.ListCtrl(self.firstpanel)
