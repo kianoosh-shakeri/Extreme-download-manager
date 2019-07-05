@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 
 import os
-import pyperclip
 import gettext
 import glob
 import wx
@@ -92,11 +91,18 @@ class application(wx.Frame):
 			self.elements['langlist'].InsertItem(i, languages[i])
 		self.Bind(wx.EVT_LIST_ITEM_ACTIVATED, self.SelectLanguage, self.elements['langlist'])
 		self.elements['langlist'].SetFocus()
+	def get_clipboard():
+		if wx.TheClipboard.Open():
+			data = wx.TextDataObject()
+			if wx.TheClipboard.GetData(data):
+				t = data.GetText()
+		wx.TheClipboard.Close()
+	return t
 	def NewDownloadPage(self):
 		self.ResetElements()
 		self.SetMenuBar(None)
 		self.elements['addresscaption']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("enter download link here"))
-		self.elements['address']=wx.TextCtrl(self.firstpanel, value=pyperclip.paste())
+		self.elements['address']=wx.TextCtrl(self.firstpanel, value=self.get_clipboard())
 		self.elements['pathlabel']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("where should this file be saved to? "))
 		self.elements['path']=wx.TextCtrl(self.firstpanel, value=os.path.expanduser("~\\downloads"))
 		self.elements['startdownloadbutton']=wx.Button(self.firstpanel, wx.ID_ANY, label=_("start download"))
