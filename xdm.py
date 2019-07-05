@@ -1,7 +1,6 @@
 # -*- coding: UTF-8 -*-
 
 import os
-import pyperclip
 import gettext
 import glob
 import wx
@@ -98,7 +97,7 @@ class application(wx.Frame):
 		self.ResetElements()
 		self.SetMenuBar(None)
 		self.elements['addresscaption']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("enter download link here"))
-		self.elements['address']=wx.TextCtrl(self.firstpanel, value=pyperclip.paste())
+		self.elements['address']=wx.TextCtrl(self.firstpanel, value=self.GetClipboard())
 		self.elements['pathlabel']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("where should this file be saved to? "))
 		self.elements['path']=wx.TextCtrl(self.firstpanel, value=os.path.expanduser("~\\downloads"))
 		self.elements['startdownloadbutton']=wx.Button(self.firstpanel, wx.ID_ANY, label=_("start download"))
@@ -202,6 +201,14 @@ class application(wx.Frame):
 	def OnQuit(self, e):
 		self.ResetElements()
 		self.Destroy()
+	def GetClipboard(self):
+		if wx.TheClipboard.Open():
+			data = wx.TextDataObject()
+			if wx.TheClipboard.GetData(data):
+				t = data.GetText()
+		wx.TheClipboard.Close()
+		return t
+
 
 
 app=wx.App()
