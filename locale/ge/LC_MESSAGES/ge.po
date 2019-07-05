@@ -1,0 +1,125 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid "ge"
+msgstr "ქართული"
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: kianoosh shakeriPlural-Forms: nplurals=2; plural=(n==0 || "
+"n==1);\n"
+"Language: fa\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "en"
+msgstr "ინგლისური"
+
+msgid "es"
+msgstr "ესპანური"
+
+msgid "de"
+msgstr "გერმანული"
+
+msgid "cancel"
+msgstr "გაუქმება"
+
+msgid "start download"
+msgstr "გადმოწერის დაწყება"
+
+msgid "add new download"
+msgstr "რაიმეს გადმოწერა"
+
+msgid "exit"
+msgstr "გამოსვლა"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr "გადმოწერის დასაწყებად, აირჩიეთ რაიმეს გადმოწერა ფაილების მენიუში"
+
+msgid "enter download link here"
+msgstr "შეიყვანეთ ლინკი"
+
+msgid "where should this file be saved to? "
+msgstr "სად გნებავთ შეინახოს პროგრამამ ეს ფაილი? "
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "ეს პროტოკოლი არასწორია. პროგრამის მიერ მხარდაჭერილი პროტოკოლებია http და ftp"
+
+msgid "wrong download link set"
+msgstr "ლინკი არასწორია"
+
+msgid "not yet began downloading"
+msgstr "ჯერ გადმოწერა არ არის დაწყებული"
+
+msgid "remaining"
+msgstr "დარჩენილია"
+
+msgid "info"
+msgstr "ინფორმაცია"
+
+msgid "state"
+msgstr "სახელმწიფო"
+
+msgid "download progress"
+msgstr "გადმოწერის პროგრესი"
+
+msgid "estimated time remaining"
+msgstr "გადმოწერამდე დარჩენილია"
+
+msgid "transfer rate"
+msgstr "ტრანსფერმაციის სიჩქარე"
+
+msgid "downloaded size"
+msgstr "გადმოწერილი ფაილის ზომა"
+
+msgid "file size"
+msgstr "ფაილის ზომა"
+
+msgid "status"
+msgstr "სტატუსი"
+
+msgid "error"
+msgstr "შეცდომა"
+
+msgid "download completed successfully. The file saved in"
+msgstr "გადმოწერა დასრულდა წარმატებით. ფაილი შეინახა თქვენს მიერ მითითებულ ფოლდერში"
+
+msgid "download complete"
+msgstr "გადმოწერა დასრულდა"
+
+msgid "file"
+msgstr "ფაილები"
+
+msgid "downloading"
+msgstr "გადმოწერა მიმდინარეობს"
+
+msgid "paused"
+msgstr "დაპაუზდა"
+
+msgid "combining"
+msgstr "კომბინირება მიმდინარეობს"
+
+msgid "finished"
+msgstr "დასრულდა"
+
+msgid "pause"
+msgstr "პაუზა"
+
+msgid "resume"
+msgstr "გაგრძელება"
+
+msgid "select language"
+msgstr "აირჩიეთ ენა"
+
+msgid "select a language"
+msgstr "აირჩიეთ ენა"
+
+msgid "change language"
+msgstr "ენის შეცვლა"
+
+msgid "download info"
+msgstr "გადმოწერის ინფორმაცია"
