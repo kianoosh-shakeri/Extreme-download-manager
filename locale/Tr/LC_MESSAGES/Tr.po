@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid ""
+msgstr ""
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: kianoosh shakeriPlural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"Language: dav\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.9\n"
+
+msgid "en"
+msgstr "english"
+
+msgid "fa"
+msgstr "پارسی"
+
+msgid "de"
+msgstr "Deutsche"
+
+msgid "cancel"
+msgstr "İptal"
+
+msgid "start download"
+msgstr "İndirmeyi başlat"
+
+msgid "add new download"
+msgstr "Yeni indirme ekle"
+
+msgid "exit"
+msgstr "Çıkış"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr "Yeni indirme başlatmak için dosya menüsünden yeni indirme başlat seçeneğini seçin"
+
+msgid "enter download link here"
+msgstr "İndirme linkini buraya girin"
+
+msgid "where should this file be saved to? "
+msgstr "Bu dosya nereye kaydedilsin?"
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "Yanlış protokol. Desteklenen protokoller http* ve ftp'dir."
+
+msgid "wrong download link set"
+msgstr "Yanllış indirme linki"
+
+msgid "not yet began downloading"
+msgstr "İndirme henüz başlamadı"
+
+msgid "remaining"
+msgstr "Kalan"
+
+msgid "info"
+msgstr "Bilgi"
+
+msgid "state"
+msgstr "Durum"
+
+msgid "download progress"
+msgstr "İndirme süreci"
+
+msgid "estimated time remaining"
+msgstr "Yaklaşık zaman"
+
+msgid "transfer rate"
+msgstr "Transfer hızı"
+
+msgid "downloaded size"
+msgstr "İndirilen boyut"
+
+msgid "file size"
+msgstr "Dosya boyutu"
+
+msgid "status"
+msgstr "Durum"
+
+msgid "error"
+msgstr "Hata"
+
+msgid "download completed successfully. The file saved in"
+msgstr "İndirme başarıyla tamamlandı. Dosyanın kaydedildiği konum"
+
+msgid "download complete"
+msgstr "İndirme tamamlandı"
+
+msgid "file"
+msgstr "Dosya"
+
+msgid "downloading"
+msgstr "İndiriliyor"
+
+msgid "paused"
+msgstr "Duraklatıldı"
+
+msgid "combining"
+msgstr "Birleştiriliyor"
+
+msgid "finished"
+msgstr "Bitti"
+
+msgid "pause"
+msgstr "Duraklat"
+
+msgid "resume"
+msgstr "Devam et"
+
+msgid "select language"
+msgstr "Dil seçin"
+
+msgid "select a language"
+msgstr "Bir dil seçin"
+
+msgid "change language"
+msgstr "Dil değiştir"
+
+msgid "download info"
+msgstr "İndirme bilgisi"
