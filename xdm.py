@@ -13,6 +13,7 @@ REMEMBERME_ID=1003
 DOWNLOAD_ID=1004
 BACKTODEFAULTPAGE_ID=1005
 CHANGELANGUAGE_ID=1006
+ABOUT_ID=1007
 #initiate translation
 langstring=""
 try:
@@ -46,12 +47,14 @@ class application(wx.Frame):
 		file=wx.Menu()
 		file.Append(wx.MenuItem(file, DOWNLOAD_ID, _("add new download")+"\tALT+A"))
 		file.Append(wx.MenuItem(file, CHANGELANGUAGE_ID, _("change language")+"\tALT+C"))
+		file.Append(wx.MenuItem(file, ABOUT_ID, _("about the app")+"\tALT+U"))
 		file.Append(wx.MenuItem(file, EXIT_ID, _("exit")+"\tALT+X"))
 		self.menubar.Append(file, "&"+_("file"))
 		self.SetMenuBar(self.menubar)
 		self.Bind(wx.EVT_MENU, self.closeapp, id=EXIT_ID)
 		self.Bind(wx.EVT_MENU, self.downloadclicked, id=DOWNLOAD_ID)
 		self.Bind(wx.EVT_MENU, self.LanguageSelector, id=CHANGELANGUAGE_ID)
+		self.Bind(wx.EVT_MENU, self.ShowAboutMessage, id=ABOUT_ID)
 	def ResetElements(self):
 		for i in list(self.elements):
 			try:
@@ -85,7 +88,8 @@ class application(wx.Frame):
 		'fa-پارسی', 
 		'de-deutsche',
 		'es-Spanish', 
-		'ge-georgian']
+		'ge-georgian',
+		'tr-Türkçe']
 		self.elements['cancelbutton']=wx.Button(self.firstpanel, id=BACKTODEFAULTPAGE_ID, label=_("cancel"))
 		self.elements['listlabel']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("select a language"))
 		self.elements['langlist']=wx.ListCtrl(self.firstpanel)
@@ -195,6 +199,9 @@ class application(wx.Frame):
 			wx.MessageDialog(self.firstpanel, str(e), _("error")).ShowModal()
 			self.ResetElements()
 			self.Destroy()
+	def ShowAboutMessage(self, e):
+		wx.MessageDialog(self.firstpanel, "this program is written by kianoosh shakeri", "about").ShowModal()
+		self.DefaultPage()
 	def closeapp(self, e):
 		self.ResetElements()
 		self.Destroy()
@@ -212,6 +219,6 @@ class application(wx.Frame):
 
 
 app=wx.App()
-gui=application(None, _("extreme download manager"))
+gui=application(None, _("extream download manager"))
 gui.Show()
 app.MainLoop()
