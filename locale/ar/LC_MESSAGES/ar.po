@@ -1,0 +1,128 @@
+﻿# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 1398 - 2019,kianoosh shakeri
+# translated by kianoosh shakeri<kianooshshakeri7@gmail.com>, 1398 - 2019
+#
+msgid ""
+msgstr ""
+"Language-Team: \"Kianoosh shakeriMIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: kianoosh shakeriPlural-Forms: nplurals=2; plural=(n==0 || "
+"n==1);\n"
+"Language: ar\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "en"
+msgstr "english"
+
+msgid "fa"
+msgstr "پارسی"
+
+msgid "de"
+msgstr "Deutsche"
+
+msgid "ar"
+msgstr "العربية"
+
+msgid "cancel"
+msgstr "أِلغاء"
+
+msgid "start download"
+msgstr "بدء التحميل"
+
+msgid "add new download"
+msgstr "أضافة تحميل جديد"
+
+msgid "exit"
+msgstr "الخروج من البرنامَجْ"
+
+msgid "to start a download, select Add New Download from the file menu"
+msgstr "لِإِضافة تحميل جديد اختر إِضافة تحميل جديد من القائمة"
+
+msgid "enter download link here"
+msgstr "ادخل رابط التحميل هنا"
+
+msgid "where should this file be saved to? "
+msgstr "أَيْن تُريد حِفْظ هذا المِلَف؟ "
+
+msgid "wrong protocol set. Supported protocols are http* and ftp"
+msgstr "تم ادخال بروتوكول خاطئ البروتوكولات المدعومة هي http* و ftp الرجاء ادخال بروتوكول صحيح ومن ثم اعادة المحاولة"
+
+msgid "wrong download link set"
+msgstr "لا يمكن التحميل من هذا الرابط الرجاء ادخال رابط صحيح ومن ثم اعادة المحاولة"
+
+msgid "not yet began downloading"
+msgstr "لم يتم بدء التحميل بَعْد"
+
+msgid "remaining"
+msgstr "المتبقي"
+
+msgid "info"
+msgstr "معلومات"
+
+msgid "state"
+msgstr "الحالة"
+
+msgid "download progress"
+msgstr "شريط التقدم"
+
+msgid "estimated time remaining"
+msgstr "الوقت المتبقي"
+
+msgid "transfer rate"
+msgstr "معدل النقل
+
+msgid "downloaded size"
+msgstr "حجم الذي تم تحميله"
+
+msgid "file size"
+msgstr "حجم الملف كاملاً"
+
+msgid "status"
+msgstr "الحالة"
+
+msgid "error"
+msgstr "خَطَأْ"
+
+msgid "download completed successfully. The file saved in"
+msgstr "تم التحميل بنجاح وقد تم حفظ الملف في"
+
+msgid "download complete"
+msgstr "تم تحميل الملف
+
+msgid "file"
+msgstr "ملف"
+
+msgid "downloading"
+msgstr "جاري التحميل"
+
+msgid "paused"
+msgstr "تم أيقاف التحميل مُؤَقَّتاً
+
+msgid "combining"
+msgstr "جاري الدمج
+
+msgid "finished"
+msgstr "تم الإنتهاء"
+
+msgid "pause"
+msgstr "أيقاف مُؤَّقَت"
+
+msgid "resume"
+msgstr "إستكمال التحميل"
+
+msgid "select language"
+msgstr "أِخْتَرْ اللُغة"
+
+msgid "select a language"
+msgstr "إِخْتَر لغة البرنامج"
+
+msgid "change language"
+msgstr "تغيير اللغة"
+
+msgid "download info"
+msgstr "معلومات التحميل"
