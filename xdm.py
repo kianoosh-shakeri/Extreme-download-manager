@@ -89,7 +89,8 @@ class application(wx.Frame):
 		'de-deutsche',
 		'es-Spanish', 
 		'ge-georgian',
-		'tr-Türkçe']
+		'tr-Türkçe',
+		'ar-arabic']
 		self.elements['cancelbutton']=wx.Button(self.firstpanel, id=BACKTODEFAULTPAGE_ID, label=_("cancel"))
 		self.elements['listlabel']=wx.StaticText(self.firstpanel, wx.ID_ANY, label=_("select a language"))
 		self.elements['langlist']=wx.ListCtrl(self.firstpanel)
@@ -209,6 +210,7 @@ class application(wx.Frame):
 		self.ResetElements()
 		self.Destroy()
 	def GetClipboard(self):
+		t=None
 		if wx.TheClipboard.Open():
 			data = wx.TextDataObject()
 			if wx.TheClipboard.GetData(data):
