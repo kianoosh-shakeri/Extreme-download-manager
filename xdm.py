@@ -221,6 +221,6 @@ class application(wx.Frame):
 
 
 app=wx.App()
-gui=application(None, _("extream download manager"))
+gui=application(None, "Extreme Download Manager")
 gui.Show()
 app.MainLoop()
